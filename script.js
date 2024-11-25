@@ -9,7 +9,7 @@ function fazerAposta(){
             alert(`Você perdeu! O número sorteado foi ${randomNumber}`)
         }
     } else {
-        alert('lala')
+        alert('Opção inválida')
     }
 
 
